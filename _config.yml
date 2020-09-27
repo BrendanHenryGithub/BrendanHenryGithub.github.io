@@ -64,9 +64,9 @@ sidebar-avatar: img/avatar.png      # use absolute URL, seeing it's used in both
 
 # The following content is not recommended to modify
 # 搜索数据文件路径设置，不建议改动：
-search:
-  path: search.json
-  field: post
+# search:
+#   path: search.json
+#   field: post
 
 # 文章样式(是否首行缩进)：
 post_style:
